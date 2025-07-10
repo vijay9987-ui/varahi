@@ -87,11 +87,11 @@ const TermsAndConditions = () => {
                         <p>
                             If you have any questions or concerns about these Terms, please contact us at:{" "}
                             <a
-                                href="https://mail.google.com/mail/?view=cm&to=varahiautomotives@gmail.com&su=Terms%20and%20Conditions&body=Hello"
+                                href="https://mail.google.com/mail/?view=cm&to=spprtcrrntl@gmail.com&su=Terms%20and%20Conditions&body=Hello"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                varahiautomotives@gmail.com
+                                spprtcrrntl@gmail.com
                             </a>
                         </p>
                     </section>

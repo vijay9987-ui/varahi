@@ -86,16 +86,16 @@ const PrivacyAndPolicy = () => {
                         <p>
                             To exercise your rights, please contact us at:{" "}
                             <a
-                                href="mailto:contact.varahiselfdrivecars@gmail.com"
+                                href="mailto:contact.vsdcars@gmail.com"
                                 className="text-decoration-underline"
                             >
-                                contact.varahiselfdrivecars@gmail.com
+                                contact.vsdcars@gmail.com
                             </a>
                         </p>
                         <p>
                             Or open Gmail to compose directly:{" "}
                             <a
-                                href="https://mail.google.com/mail/?view=cm&to=contact.varahiselfdrivecars@gmail.com&su=Regarding%20Privacy%20Policy&body=Hello%2C%20I%20would%20like%20to..."
+                                href="https://mail.google.com/mail/?view=cm&to=contact.vsdcars@gmail.com&su=Regarding%20Privacy%20Policy&body=Hello%2C%20I%20would%20like%20to..."
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >

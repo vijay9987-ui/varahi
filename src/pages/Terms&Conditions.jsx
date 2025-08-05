@@ -10,7 +10,7 @@ const TermsAndConditions = () => {
                 </Card.Header>
                 <Card.Body className="px-md-5 py-4">
                     <p className="text-muted fs-5 mb-5">
-                        These Terms and Conditions ("Terms") govern your use of the VARAHI AUTOMOTIVES AND TRAVELS application ("App"). By accessing or using the App, you agree to comply with and be bound by these Terms.
+                        These Terms and Conditions ("Terms") govern your use of the VSD Cars application ("App"). By accessing or using the App, you agree to comply with and be bound by these Terms.
                     </p>
 
                     {/* Section 1 */}
@@ -69,7 +69,7 @@ const TermsAndConditions = () => {
                     <section className="mb-5">
                         <h2 className="h5 fw-semibold text-dark mb-3">7. Limitation of Liability</h2>
                         <p>
-                            VARAHI AUTOMOTIVES AND TRAVELS is not liable for any indirect, incidental, or consequential damages arising from your use of the App.
+                            VSD Cars is not liable for any indirect, incidental, or consequential damages arising from your use of the App.
                         </p>
                     </section>
 
@@ -87,11 +87,11 @@ const TermsAndConditions = () => {
                         <p>
                             If you have any questions or concerns about these Terms, please contact us at:{" "}
                             <a
-                                href="https://mail.google.com/mail/?view=cm&to=contact.varahiselfdrivecars@gmail.com&su=Terms%20and%20Conditions&body=Hello"
+                                href="https://mail.google.com/mail/?view=cm&to=contact.vsdcars@gmail.com&su=Terms%20and%20Conditions&body=Hello"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                contact.varahiselfdrivecars@gmail.com
+                                contact.vsdcars@gmail.com
                             </a>
                         </p>
                     </section>

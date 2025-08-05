@@ -12,7 +12,7 @@ const PrivacyAndPolicy = () => {
                 <Card.Body className="px-md-5 py-4">
                     {/* Introduction */}
                     <p className="text-muted fs-5 mb-5">
-                        At <strong>VARAHI AUTOMOTIVES AND TRAVELS</strong>, we respect your privacy and are committed
+                        At <strong>VSD Cars</strong>, we respect your privacy and are committed
                         to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your data when you use our App.
                     </p>
 

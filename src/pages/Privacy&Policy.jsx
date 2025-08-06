@@ -29,7 +29,6 @@ const PrivacyAndPolicy = () => {
                         <p>The personal data we collect may include:</p>
                         <ul>
                             <li>Your name and contact information (userName, email address, phone number)</li>
-                            <li>Your profile information (Profile Image)</li>
                             <li>Your Aadhar and Driving License</li>
                             <li>Your current location</li>
                             <li>Any other information you choose to provide to us</li>
@@ -79,8 +78,6 @@ const PrivacyAndPolicy = () => {
                         <p>You have the right to:</p>
                         <ul>
                             <li>Access your personal data</li>
-                            <li>Correct or update your personal data</li>
-                            <li>Delete your personal data</li>
                             <li>Delete your personal account</li>
                         </ul>
                         <p>

@@ -12,7 +12,7 @@ const PrivacyAndPolicy = () => {
                 <Card.Body className="px-md-5 py-4">
                     {/* Introduction */}
                     <p className="text-muted fs-5 mb-5">
-                        At <strong>VSD Cars</strong>, we respect your privacy and are committed
+                        At <strong>Varahi Self Drive Cars</strong>, we respect your privacy and are committed
                         to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your data when you use our App.
                     </p>
 
@@ -83,16 +83,17 @@ const PrivacyAndPolicy = () => {
                         <p>
                             To exercise your rights, please contact us at:{" "}
                             <a
-                                href="mailto:contact.vsdcars@gmail.com"
+                                href="https://mail.google.com/mail/?view=cm&to=help.varahiselfdrivecars@gmail.com&su=Regarding%20Privacy%20Policy&body=Hello%2C%20I%20would%20like%20to..."
+                                target="_blank"
                                 className="text-decoration-underline"
                             >
-                                contact.vsdcars@gmail.com
+                                help.varahiselfdrivecars@gmail.com
                             </a>
                         </p>
                         <p>
                             Or open Gmail to compose directly:{" "}
                             <a
-                                href="https://mail.google.com/mail/?view=cm&to=contact.vsdcars@gmail.com&su=Regarding%20Privacy%20Policy&body=Hello%2C%20I%20would%20like%20to..."
+                                href="https://mail.google.com/mail/?view=cm&to=help.varahiselfdrivecars@gmail.com&su=Regarding%20Privacy%20Policy&body=Hello%2C%20I%20would%20like%20to..."
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
